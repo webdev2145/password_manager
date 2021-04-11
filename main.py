@@ -113,7 +113,7 @@ lbl_email = Label(text="Email/Username:", font=('Arial', 12))
 lbl_email.grid(row=3, column=0)
 
 txt_email = Entry(width=38)
-txt_email.insert(0, "onepinn980@gmail.com")
+txt_email.insert(0, "your_email_here")
 txt_email.grid(row=3, column=1, columnspan=2)
 
 lbl_password = Label(text="Password:", font=('Arial', 12))
